@@ -1,7 +1,7 @@
-Room with Content Providers Sample
+Room, LiveData and ViewModel with Content Providers Sample
 ===================================
 
-This sample demonstrates how to expose data stored in the Room persistence library with Android's Content Provider
+This sample demonstrates how to implement Room, LiveData and ViewModel with Android's Content Provider
 framework.
 
 License
