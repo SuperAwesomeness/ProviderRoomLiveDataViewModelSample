@@ -4,6 +4,9 @@ Room, LiveData and ViewModel with Content Providers Sample
 This sample demonstrates how to implement Room, LiveData and ViewModel with Android's Content Provider
 framework.
 
+Shareable project zip file: https://drive.google.com/file/d/13aSCCPMX0ze3i0DMi4mzP6jo39W3pnR2/view?usp=sharing
+
+
 License
 --------
 
